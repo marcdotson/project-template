@@ -7,6 +7,9 @@
 .RData
 .Ruserdata
 
+# Quarto
+.quarto
+
 # Apple
 .DS_Store
 
