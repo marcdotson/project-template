@@ -19,9 +19,16 @@ mollit anim id est laborum.
 - `/presentations` Presentation slides.
 - `/private` A catch-all folder for miscellaneous files, not pushed.
 - `/writing` Paper, report, and case studies.
+- `/.quarto` Hidden Quarto project library, not pushed.
 - `/.venv` Hidden Python project library, not pushed.
 - `.gitignore` Hidden Git instructions file.
 - `.python-version` Hidden Python version file.
+- `LICENSE` MIT License for “as is” permission.
+- `README.md` GitHub-flavored markdown README rendered from
+  `README.qmd`.
+- `README.qmd` Quarto markdown README to edit and render into
+  `README.md`.
+- `_quarto.yml` Quarto project configuration file.
 - `pyproject.toml` Python project environment configuration file.
 - `uv.lock` Python project environment lockfile.
 
@@ -32,4 +39,4 @@ and run `uv run` to create the `/.venv` project library and install the
 specified Python and library versions.
 
 For more details on using Python, Positron, GitHub, Quarto, etc. see the
-recommended [Data Stack](https://github.com/marcdotson/data-stack).
+recommended [data stack](https://github.com/marcdotson/data-stack).
