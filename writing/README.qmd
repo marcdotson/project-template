@@ -12,3 +12,4 @@ License: This work is licensed under a [Creative Commons Attribution-ShareAlike 
 - `_extensions` JASA template files.
 - `references.bib` References template.
 - `paper-template.qmd` Paper template.
+- `report-template.qmd` Report template.

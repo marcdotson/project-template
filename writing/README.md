@@ -12,3 +12,4 @@ License](https://creativecommons.org/licenses/by-sa/4.0/).
 - `_extensions` JASA template files.
 - `references.bib` References template.
 - `paper-template.qmd` Paper template.
+- `report-template.qmd` Report template.

@@ -38,5 +38,5 @@ After cloning this repository, go to the project’s terminal in Positron
 and run `uv run` to create the `/.venv` project library and install the
 specified Python and library versions.
 
-For more details on using Python, Positron, GitHub, Quarto, etc. see the
-recommended [data stack](https://github.com/marcdotson/data-stack).
+For more details on using Positron, Python, Quarto, and GitHub see the
+[data stack](https://github.com/marcdotson/data-stack) repository.
