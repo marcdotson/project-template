@@ -1,5 +1,5 @@
 ---
-title: "Do You Even Quarto, Bruh?"
+title: "Paper"
 author: 
   - name: "Author 1"
     affiliation: "University of Whatever"
