@@ -1,5 +1,5 @@
 # Python
-.venv
+/.venv
 
 # R
 .Rproj.user
@@ -7,20 +7,19 @@
 .RData
 .Ruserdata
 
-# Quarto
-.quarto
-
 # Apple
 .DS_Store
 
 # Folders
-output/*
-private/*
+/.quarto
+/.posit
+/output/*
+/private/*
 
 # Files
 *.pdf
-code/src/*
-!code/src/*.R
-!code/src/*.py
-!code/src/*.cpp
-!code/src/*.stan
+/code/src/*
+!/code/src/*.R
+!/code/src/*.py
+!/code/src/*.cpp
+!/code/src/*.stan
