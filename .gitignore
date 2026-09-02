@@ -9,6 +9,7 @@
 **/*.quarto_ipynb
 **/*.quarto_ipynb_*
 *.pdf
+*.html
 /code/src/*
 !/code/src/*.R
 !/code/src/*.py
